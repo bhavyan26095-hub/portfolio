@@ -1,0 +1,7 @@
+Hello my name is Bhavya, ia m currently 17 years old and I'm currently completing my btech in cs and ai from newton school of technology.
+I completed my class 10th from Birla Vidya Niketan, New Delhi
+And 12th from national institute of open schooling.
+I have achieved an all India rank of 19 in 2023 in the national STEM challenge test held by Waran's Academy, Australia.
+Currently I am learning coding languages like Python, C++ and Javascript. Currently interested in open source contributions.
+I have also built a running system called 'Orbit' to make it easier for coders, developers and open source contributors to find good open issues in good organisations, to help build them their open source journey.`
+Currently I do have hobbies and personal interests like swimming, going to the gym, watching Formula 1.
